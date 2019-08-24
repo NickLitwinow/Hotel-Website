@@ -1,5 +1,5 @@
 # Hotel-Website
 What did I learn by creating this?
--HTML Basics
--CSS Basics
+-HTML5 Basics
+-CSS3 Basics
 -Responsive Layouts
